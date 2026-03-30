@@ -101,7 +101,7 @@ async function getAllProducts() {
                 <i onClick={()=> {addProductToWishList(product.id)}}  className={`fa-solid fa-heart ${wishlist.includes(product.id) ? " main-color" : "text-main"} `} ></i>
                 </div>
                 <div className="itemImg text-center">
-                        <img src={product.imageCover}  height={200} alt={product.title} />
+                        <img src={product.imageCover} loading='lazy'  height={200} alt={product.title} />
                 </div>
                 
                     <div className="Iteminfo p-2   ">
