@@ -30,8 +30,8 @@ let validationSchema = Yup.object({
 
  const {errors, values, handleBlur , handleSubmit , handleChange , touched , isValid} = useFormik({
     initialValues : {
-      email : ``,
-      password : ``,
+      email : `haysm155@gmail.com`,
+      password : `Ahmed123`,
 
     },
     
