@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fresh-cart/static/css/main.3e4d0e0c.css",
-    "main.js": "/Fresh-cart/static/js/main.3191fa98.js",
+    "main.js": "/Fresh-cart/static/js/main.5774e78c.js",
     "static/js/962.14bc373e.chunk.js": "/Fresh-cart/static/js/962.14bc373e.chunk.js",
     "static/js/164.b586f0d8.chunk.js": "/Fresh-cart/static/js/164.b586f0d8.chunk.js",
     "static/js/453.5a0e9bc7.chunk.js": "/Fresh-cart/static/js/453.5a0e9bc7.chunk.js",
@@ -26,13 +26,13 @@
     "static/media/slick.woff": "/Fresh-cart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Fresh-cart/index.html",
     "main.3e4d0e0c.css.map": "/Fresh-cart/static/css/main.3e4d0e0c.css.map",
-    "main.3191fa98.js.map": "/Fresh-cart/static/js/main.3191fa98.js.map",
+    "main.5774e78c.js.map": "/Fresh-cart/static/js/main.5774e78c.js.map",
     "962.14bc373e.chunk.js.map": "/Fresh-cart/static/js/962.14bc373e.chunk.js.map",
     "164.b586f0d8.chunk.js.map": "/Fresh-cart/static/js/164.b586f0d8.chunk.js.map",
     "453.5a0e9bc7.chunk.js.map": "/Fresh-cart/static/js/453.5a0e9bc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e4d0e0c.css",
-    "static/js/main.3191fa98.js"
+    "static/js/main.5774e78c.js"
   ]
 }
